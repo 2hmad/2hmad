@@ -1,16 +1,26 @@
-### Hi there 👋
+Hi!
 
-<!--
-**Ahmed-Ibrahimm/Ahmed-Ibrahimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ahmed Mohamed Ibrahim. If you develop software using the PHP programming language then you may have come across my name. I am the creator and maintainer of [DinoPHP](https://dinophp.com/) as well as many other libraries and tools that are commonly used.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📈 My GitHub Statistics
+
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Ahmed-Ibrahimm&show_icons=true&count_private=true&hide_title=true)
+
+---
+
+#### 👷 Check out what I'm currently working on
+
+- [Ahmed-Ibrahimm/dinophp](https://github.com/Ahmed-Ibrahimm/DinoPHP) - DinoPHP is a PHP framework
+- [Ahmed-Ibrahimm/HummerTemplateEngine](https://github.com/Ahmed-Ibrahimm/HummerTemplateEngine) - Hummer is a PHP template engine (Using in DinoPHP)
+- [Ahmed-Ibrahimm/DinoPHP-Website](https://github.com/Ahmed-Ibrahimm/DinoPHP-Website) - DinoPHP Website (Documentation)
+
+---
+
+#### 📫 How to reach me
+
+- Facebook: [@Mr.AhmedMohammd](https://www.facebook.com/Mr.AhmedMohammd)
+- Twitter: [@ahmedmohammedx](https://twitter.com/ahmedmohammedx)
+- WhatsApp: [+201275457924](https://api.whatsapp.com/send?phone=+201275457924)
+- Email: [ahmedmohamed@dinophp.com](mailto://ahmedmohamed@dinophp.com)
