@@ -12,7 +12,7 @@ I am Ahmed Mohamed Ibrahim. If you develop software using the PHP programming la
 
 #### 👷 Check out what I'm currently working on
 
-- [Ahmed-Ibrahimm/dinophp](https://github.com/Ahmed-Ibrahimm/DinoPHP) - DinoPHP is a PHP framework
+- [Ahmed-Ibrahimm/DinoPHP](https://github.com/Ahmed-Ibrahimm/DinoPHP) - DinoPHP is a PHP framework
 - [Ahmed-Ibrahimm/HummerTemplateEngine](https://github.com/Ahmed-Ibrahimm/HummerTemplateEngine) - Hummer is a PHP template engine (Using in DinoPHP)
 - [Ahmed-Ibrahimm/DinoPHP-Website](https://github.com/Ahmed-Ibrahimm/DinoPHP-Website) - DinoPHP Website (Documentation)
 
