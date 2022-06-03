@@ -13,7 +13,7 @@ Hi, I'm Ahmed M. Ibrahim, a Full-stack Web Developer, Always doing my best with 
 - How to reach me: ahmed_noreldin@outlook.com;
 - [My Portfolio](https://ahmedmohamed.me/)
 
-[![Whatsapp](https://camo.githubusercontent.com/ad366a8ebf73dbde1df957e01631730cb8476dddeda02f800daa8639787c1474/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f776861747361707025323062757373696e65732d3132384337452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465)](http://wa.me/201275457924)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/201275457924)
 [![Linkedin](https://camo.githubusercontent.com/748f20cecd0b6cfa4945802e7d112cc9fa919ad759ba8bb32d271f8d929aeacf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3030373762352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/mr-ahmedmohamed)
 [![Udemy Badge](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/ahmed-mohamed-1/) 
 
