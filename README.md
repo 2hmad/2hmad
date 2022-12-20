@@ -31,4 +31,7 @@ Hi, I'm Ahmed M. Ibrahim, a Full-stack Web Developer, Always doing my best with 
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=2hmad )
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
