@@ -33,5 +33,15 @@ Hi, I'm Ahmed M. Ibrahim, a Full-stack Web Developer, Always doing my best with 
 ![github stats](https://github-readme-stats.vercel.app/api?username=2hmad )
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript     3 hrs 25 mins   ███████████████▒░░░░░░░░░   61.94 %
+PHP            1 hr 49 mins    ████████▒░░░░░░░░░░░░░░░░   32.98 %
+JavaScript     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+YAML           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Bash           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+```
+
 <!--END_SECTION:waka-->
  
