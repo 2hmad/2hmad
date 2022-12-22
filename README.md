@@ -35,12 +35,10 @@ Hi, I'm Ahmed M. Ibrahim, a Full-stack Web Developer, Always doing my best with 
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript     3 hrs 25 mins   ███████████████▒░░░░░░░░░   61.94 %
-PHP            1 hr 49 mins    ████████▒░░░░░░░░░░░░░░░░   32.98 %
-JavaScript     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-YAML           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Bash           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+PHP              4 hrs 17 mins   ███████████░░░░░░░░░░░░░░   44.18 %
+TypeScript       3 hrs 54 mins   ██████████░░░░░░░░░░░░░░░   40.15 %
+JavaScript       51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+Other            16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
