@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-Hi, I'm Ahmed M. Ibrahim, a Full-stack Web Developer, Always doing my best with the aim of improving operational functionality in line with business requirements; Beside's programming
+Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with the aim of improving operational functionality in line with business requirements; Beside's programming
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- IT Entrepreneur
+- Software Engineer
 - Software Instructor
 - More than 4k student around the world
 - How to reach me: ahmed_noreldin@outlook.com;
@@ -30,7 +30,7 @@ Hi, I'm Ahmed M. Ibrahim, a Full-stack Web Developer, Always doing my best with 
 
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=2hmad )
+![github stats](https://github-readme-stats.vercel.app/api?username=2hmad)
 
 <!--START_SECTION:waka-->
 
