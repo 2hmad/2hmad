@@ -29,8 +29,7 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" title="Docker"></code>
 
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=2hmad)
+![github stats](https://github-readme-stats.vercel.app/api?username=2hmad&show_icons=true)
 
 <!--START_SECTION:waka-->
 
