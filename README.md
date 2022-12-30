@@ -28,9 +28,18 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" title="Docker"></code>
 
+<details><br /> 
+   <summary>:zap: GitHub Stats</summary>
+  <p>
+    
+  ![github stats](https://github-readme-stats.vercel.app/api?username=2hmad&show_icons=true)
+    
+  </p>
+  
+</details>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=2hmad&show_icons=true)
-
+<details><br /> 
+   <summary>:zap: Most Used Languages</summary> 
 <!--START_SECTION:waka-->
 
 ```text
@@ -43,4 +52,6 @@ JSON              53 mins         ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+  
+</details>
  
