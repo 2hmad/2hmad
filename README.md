@@ -5,7 +5,7 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuffs**
 
 - Software Engineer
 - Software Instructor
@@ -18,7 +18,7 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 [![Udemy Badge](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/ahmed-mohamed-1/) 
 [![Upwork Badge](https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01788957435aed0aa5)
 
-**Languages and tools:**  
+**Languages and tools**  
 
 <code><img width="30" src="https://user-images.githubusercontent.com/11155743/116788105-76db9480-aab0-11eb-905d-d8a7919d7256.png" title="Golang"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="PHP"></code>
@@ -28,18 +28,16 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" title="Docker"></code>
 
-<details><br /> 
-   <summary>:zap: GitHub Stats</summary>
+  **:zap: GitHub Stats**
   <p>
     
   ![github stats](https://github-readme-stats.vercel.app/api?username=2hmad&show_icons=true)
     
   </p>
   
-</details>
 
-<details><br /> 
-   <summary>:zap: Most Used Languages</summary> 
+
+   **:zap: Most Used Languages**
 <!--START_SECTION:waka-->
 
 ```text
@@ -52,6 +50,4 @@ JSON              53 mins         ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-  
-</details>
  
