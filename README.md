@@ -41,12 +41,12 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript        14 hrs 14 mins  ████████████░░░░░░░░░░░░░   47.49 %
-Vue.js            5 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
-PHP               3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-Go                3 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-SCSS              55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-JSON              53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+TypeScript        14 hrs 30 mins  ███████████▓░░░░░░░░░░░░░   46.17 %
+Vue.js            5 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.55 %
+PHP               3 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
+Go                3 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+JavaScript        1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+JSON              1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
 
 <!--END_SECTION:waka-->
