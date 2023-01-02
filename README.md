@@ -31,7 +31,7 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
   **:zap: GitHub Stats**
   <p>
     
-  ![github stats](https://github-readme-stats-gamma-ten-49.vercel.app/api?username=2hmad&show_icons=true)
+  ![github stats](https://github-readme-stats-gamma-ten-49.vercel.app/api?username=2hmad&show_icons=true&include_all_commits=true)
     
   </p>
   
