@@ -37,17 +37,6 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
   
 
 
-   **:zap: Most Used Languages**
 <!--START_SECTION:waka-->
-
-```text
-Go                9 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   37.46 %
-TypeScript        5 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
-Vue.js            3 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
-YAML              2 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-JavaScript        1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-JSON              44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-```
-
 <!--END_SECTION:waka-->
  
