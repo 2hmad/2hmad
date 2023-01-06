@@ -38,5 +38,17 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 79 hrs 51 mins
+
+TypeScript        34 hrs 6 mins   ██████████▓░░░░░░░░░░░░░░   42.72 %
+Go                12 hrs 32 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
+Vue.js            10 hrs 46 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
+PHP               9 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+JavaScript        3 hrs 23 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+YAML              2 hrs 38 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+```
+
 <!--END_SECTION:waka-->
  
