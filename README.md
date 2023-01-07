@@ -32,5 +32,31 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 **:zap: This Week I Spent My Time On**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2030%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20%20Thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Go                       9 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   35.86% 
+TypeScript               8 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.02% 
+Vue.js                   3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.67% 
+YAML                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
+Protocol Buffer          42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
+
+🔥 Editors: 
+GoLand                   13 hrs 22 mins      ████████████░░░░░░░░░░░░░   49.27% 
+WebStorm                 8 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.55% 
+VS Code                  5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.17%
+
+💻 Operating System: 
+Linux                    27 hrs 9 mins       █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 07/01/2023 18:57:49 UTC
 <!--END_SECTION:waka-->
  
