@@ -30,8 +30,6 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20%20Thousand%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 83 Contributions in the Year 2023
@@ -65,6 +63,6 @@ Linux                    27 hrs 9 mins       ███████████�
 ```
 
 
- Last Updated on 07/01/2023 19:12:45 UTC
+ Last Updated on 07/01/2023 19:21:37 UTC
 <!--END_SECTION:waka-->
  
