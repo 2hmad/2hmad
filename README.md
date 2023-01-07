@@ -30,18 +30,6 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 85 Contributions in the Year 2023
- > 
-> 📦 437.6 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 28 Public Repositories 
- > 
-> 🔑 55 Private Repositories  
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
