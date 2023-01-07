@@ -40,12 +40,12 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 <!--START_SECTION:waka-->
 
 ```text
-Go                9 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   37.46 %
-TypeScript        5 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
-Vue.js            3 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
-YAML              2 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-JavaScript        1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-JSON              44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Go                9 hrs 44 mins   █████████░░░░░░░░░░░░░░░░   35.86 %
+TypeScript        8 hrs 58 mins   ████████▒░░░░░░░░░░░░░░░░   33.02 %
+Vue.js            3 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+YAML              2 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+Protocol Buffer   42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+protobuf          23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
