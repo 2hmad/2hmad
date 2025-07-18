@@ -25,6 +25,23 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,php,cpp,docker,elasticsearch,express,git,githubactions,go,grafana,graphql,java,kafka,kubernetes,laravel,mongodb,mysql,nestjs,nextjs,nodejs,nuxtjs,php,postgres,postman,react,redis,redux,spring,sqlite,ts">
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Go                       1 hr 10 mins        ██████████████████████░░░   89.60 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Env File                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+
+🔥 Editors: 
+GoLand                   1 hr 19 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    1 hr 19 mins        █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
  
