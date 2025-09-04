@@ -29,13 +29,15 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       50 mins             ███████████░░░░░░░░░░░░░░   45.99 % 
+TypeScript               39 mins             █████████░░░░░░░░░░░░░░░░   35.54 % 
+SQL                      20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 50 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 
