@@ -29,15 +29,13 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 
 ```text
 💬 Programming Languages: 
-Go                       1 min               ██████████████░░░░░░░░░░░   54.94 % 
-YAML                     0 secs              ███████████░░░░░░░░░░░░░░   44.36 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
