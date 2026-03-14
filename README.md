@@ -29,18 +29,18 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 12 mins       ███████████████░░░░░░░░░░   58.45 % 
-Go                       1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Bash                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-YAML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-PHP                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+TypeScript               8 hrs 1 min         █████████████░░░░░░░░░░░░   52.45 % 
+Go                       3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Bash                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 18 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      8 hrs 23 mins       █████████████████░░░░░░░░   68.15 % 
-Linux                    3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   31.85 % 
+WSL                      11 hrs 54 mins      ███████████████████░░░░░░   77.80 % 
+Linux                    3 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
 ```
 
 
