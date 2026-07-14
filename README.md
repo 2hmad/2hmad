@@ -29,18 +29,18 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 1 min        ██████████░░░░░░░░░░░░░░░   39.76 % 
-Go                       10 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-Markdown                 4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Other                    2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-YAML                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+TypeScript               14 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   41.85 % 
+Go                       9 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+Markdown                 4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+YAML                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Other                    1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 47 mins      ███████████████████░░░░░░   75.92 % 
-VS Code                  8 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+Claude Code              26 hrs 16 mins      ███████████████████░░░░░░   75.62 % 
+VS Code                  8 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
 
 💻 Operating System: 
-Linux                    35 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    34 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 
