@@ -25,6 +25,8 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,php,cpp,docker,elasticsearch,express,git,githubactions,go,grafana,graphql,java,kafka,kubernetes,laravel,mongodb,mysql,nestjs,nextjs,nodejs,nuxtjs,php,postgres,postman,react,redis,redux,spring,sqlite,ts">
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-379%20hrs%2037%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -41,6 +43,29 @@ VS Code                  8 hrs 10 mins       █████░░░░░░�
 
 💻 Operating System: 
 Linux                    39 hrs 8 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 36 hrs 25 mins (93.06%)
+
+✍️ 38,566 lines written by AI, 295 lines written by hand (99.24% AI-written)
+
+🔤 1,088,345,790 Input Tokens, 2,880,655 Output Tokens
+
+💵 $5509.14 Estimated AI Cost This Week
+
+🧠 28 AI Sessions, 518 AI Prompts
+
+Opus                     40,162 lines        █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.24% of written lines came from AI
+📄 Detailed Prompter — average 1,020 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 1.62% of changed lines were hand-edited
 ```
 
 
