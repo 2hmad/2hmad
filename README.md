@@ -60,12 +60,6 @@ Linux                    30 hrs 58 mins      ███████████�
 
 Opus                     32,846 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.34% of written lines came from AI
-📄 Detailed Prompter — average 1,328 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 1.25% of changed lines were hand-edited
 ```
 
 
