@@ -25,47 +25,48 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,php,cpp,docker,elasticsearch,express,git,githubactions,go,grafana,graphql,java,kafka,kubernetes,laravel,mongodb,mysql,nestjs,nextjs,nodejs,nuxtjs,php,postgres,postman,react,redis,redux,spring,sqlite,ts">
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-395%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-399%20hrs%2018%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   32.34 % 
-Go                       8 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-Bash                     3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Markdown                 3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-YAML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+TypeScript               10 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   33.02 % 
+Go                       6 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
+Bash                     4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Markdown                 3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+YAML                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🔥 Editors: 
-Claude Code              25 hrs 33 mins      █████████████████████░░░░   82.25 % 
-VS Code                  5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Claude Code              25 hrs 23 mins      █████████████████████░░░░   82.30 % 
+VS Code                  5 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
 
 💻 Operating System: 
-Linux                    31 hrs 5 mins       █████████████████████████   100.00 % 
+Linux                    30 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 43 mins (89.22%)
+⏱ AI Coding Time: 27 hrs 26 mins (88.94%)
 
-✍️ 35,464 lines written by AI, 192 lines written by hand (99.46% AI-written)
+✍️ 32,402 lines written by AI, 282 lines written by hand (99.14% AI-written)
 
-🔤 859,741,526 Input Tokens, 2,379,948 Output Tokens
+🔤 898,038,531 Input Tokens, 2,483,776 Output Tokens
 
-💵 $4351.70 Estimated AI Cost This Week
+💵 $4245.24 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 284 AI Prompts
+🧠 23 AI Sessions, 298 AI Prompts
 
-Opus                     36,453 lines        █████████████████████████   100.00 % 
+Opus                     32,567 lines        ████████████████████████░   97.04 % 
+Sonnet                   992 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.46% of written lines came from AI
-📚 Verbose Prompter — average 2,353 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 1.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.14% of written lines came from AI
+📚 Verbose Prompter — average 1,921 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 1.52% of changed lines were hand-edited
 ```
 
 
