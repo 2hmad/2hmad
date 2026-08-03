@@ -45,30 +45,5 @@ VS Code                  5 hrs 31 mins       █████░░░░░░�
 Linux                    28 hrs              █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 24 hrs 42 mins (88.18%)
-
-✍️ 35,058 lines written by AI, 127 lines written by hand (99.64% AI-written)
-
-🔤 913,608,060 Input Tokens, 2,490,272 Output Tokens
-
-💵 $4349.12 Estimated AI Cost This Week
-
-🧠 25 AI Sessions, 269 AI Prompts
-
-Opus                     36,391 lines        ████████████████████████░   97.35 % 
-Sonnet                   992 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.64% of written lines came from AI
-📚 Verbose Prompter — average 2,368 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.85% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:waka-->
  
