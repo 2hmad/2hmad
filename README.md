@@ -25,6 +25,50 @@ Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with th
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,php,cpp,docker,elasticsearch,express,git,githubactions,go,grafana,graphql,java,kafka,kubernetes,laravel,mongodb,mysql,nestjs,nextjs,nodejs,nuxtjs,php,postgres,postman,react,redis,redux,spring,sqlite,ts">
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-420%20hrs%2022%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Go                       11 hrs 32 mins      ███████████░░░░░░░░░░░░░░   42.69 % 
+TypeScript               7 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+Bash                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Markdown                 1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Python                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+
+🔥 Editors: 
+Claude Code              23 hrs 32 mins      ██████████████████████░░░   87.01 % 
+VS Code                  3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+
+💻 Operating System: 
+Linux                    27 hrs 3 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 25 hrs 8 mins (92.92%)
+
+✍️ 37,593 lines written by AI, 148 lines written by hand (99.61% AI-written)
+
+🔤 1,061,781,988 Input Tokens, 2,615,332 Output Tokens
+
+💵 $5098.00 Estimated AI Cost This Week
+
+🧠 26 AI Sessions, 299 AI Prompts
+
+Opus                     38,806 lines        ████████████████████████░   97.51 % 
+Sonnet                   992 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.61% of written lines came from AI
+📚 Verbose Prompter — average 1,545 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 1.0% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:waka-->
  
