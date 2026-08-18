@@ -1,26 +1,46 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=2hmad&color=lightgrey)
+# Ahmed Mohamed
 
-Hi, I'm Ahmed Mohamed Ibrahim, a Software Engineer, Always doing my best with the aim of improving operational functionality in line with business requirements; Beside's programming
+### Software Engineer · Builder · Open Source
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
-**Talking about Personal Stuffs**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Building+things+that+shouldn't+exist;Go+%7C+Laravel+%7C+React+%7C+Next.js;SaaS+%7C+AI+%7C+Distributed+Systems" />
 
-- Software Engineer
-- Software Instructor
-- More than 4k student around the world
-- How to reach me: ahmed_noreldin@outlook.com;
-- [My Portfolio](https://ahmednoreldin.com)
+<br/>
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/201275457924)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmednoreldin)
-[![Udemy Badge](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/ahmed-mohamed-1/) 
-[![Upwork Badge](https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01788957435aed0aa5)
-[![Youtube Badge](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@code_with_ahmed)
+<a href="https://github.com/2hmad">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://ahmednoreldin.com">Website</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/ahmednoreldin">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://www.upwork.com/freelancers/~01788957435aed0aa5">Upwork</a>
 
-**Languages and tools**  
+</div>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,php,cpp,docker,elasticsearch,express,git,githubactions,go,grafana,graphql,java,kafka,kubernetes,laravel,mongodb,mysql,nestjs,nextjs,nodejs,nuxtjs,php,postgres,postman,react,redis,redux,spring,sqlite,ts">
- 
+---
+
+## About
+
+I'm Ahmed, a Senior Software Engineer and builder from Egypt.
+
+I spend most of my time designing and building SaaS products, backend systems,
+and developer tools.
+
+I care a lot about simple architecture, performance, and shipping things that
+actually work in production.
+
+Currently working mostly with **Go, Laravel, React, Next.js, NestJS, PostgreSQL,
+Docker, and cloud infrastructure.**
+
+---
+
+## Things I build
+
+```text
+SaaS              → Multi-tenant systems, billing, automation
+Backend           → Go, APIs, microservices, real-time systems
+Frontend          → React, Next.js, TypeScript
+Infrastructure    → Docker, Kubernetes, AWS, DigitalOcean
+AI                → LLMs, AI agents, RAG, automation
+Open Source       → Developer tools & frameworks
