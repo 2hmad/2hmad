@@ -52,6 +52,10 @@ Currently working mostly with:
 
 ## Open Source
 
+### 🔄 [CCSwitch](https://github.com/2hmad/ccswitch)
+
+Switch between multiple Claude Code accounts with one command — MCP servers, plugins, skills and session history stay shared.
+
 ### ⚡ [Pulse](https://github.com/2hmad/pulse)
 
 A high-performance Go framework for building modern applications.
